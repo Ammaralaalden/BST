@@ -2,7 +2,6 @@
 #include <iostream>
 #include <stack>
 #include <algorithm> // для std::max
-//#include <iomanip>
 #include <cmath>
 
 
